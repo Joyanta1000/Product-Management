@@ -6,7 +6,7 @@ This project consists of a **Vue.js** frontend and a **Laravel** backend. Follow
 
 Follow the steps below to set up the Vue.js frontend:
 
-1. **Install Dependencies**  
+1. **Install Dependencies**
 
    Install the necessary npm dependencies by running the following command:
 
