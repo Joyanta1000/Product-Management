@@ -22,9 +22,6 @@ Follow the steps below to set up the Laravel backend:
    Install the required PHP dependencies for Laravel:
 
    composer install
-2. **Run Development Server**
-
-   npm run dev
 
 3. **Copy .env.example to .env**
 
