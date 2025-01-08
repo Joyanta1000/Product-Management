@@ -16,6 +16,8 @@ Follow the steps below to set up the Vue.js frontend:
 
    npm run dev
 
+## Backend (Laravel)
+
 Follow the steps below to set up the Laravel backend:
 
 1. **Install Dependencies**
